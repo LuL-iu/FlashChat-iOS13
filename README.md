@@ -1,7 +1,8 @@
 # Flash-Chat
 
 
-Flash Chat is an internet based messaging app similar to WhatsApp,  using  Firebase Firestore as a database to store and retrieve messages from the cloud. 
+Flash Chat is an internet based messaging app similar to group chat,  using  Firebase Firestore as a database to store and retrieve messages from the cloud. 
+App reference the udemy class project https://www.udemy.com/course/ios-13-app-development-bootcamp/
 
 ## Feactures List
 
